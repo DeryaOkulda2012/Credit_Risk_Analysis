@@ -36,7 +36,7 @@ Model Accuracy = 0.7877672625306695
 !["images/05_RandomForest2.png"](images/05_RandomForest2.png)
 
 
-##Easy Ensemble AdaBoost Classifier
+## Easy Ensemble AdaBoost Classifier
 
 Model Accuracy = 0.925427358175101
 

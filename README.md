@@ -2,9 +2,9 @@
 
 ## Executive Summary
 
-- No single model gave confidence when predicting high risk credit applications.
+- All models showed greater than 0.61 recall score in predicting high risk credit applications.
 
-- All models showed greater than 0.60 recall scores in predicting high risk credit applications.
+- Yet, no single model gave high confidence when predicting high risk credit applications.
 
 - Easy Ensemble AdaBoost Classifier had the highest recall with 0.91 in preedicting high risk credit applications.
 

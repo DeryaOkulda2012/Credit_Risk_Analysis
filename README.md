@@ -62,6 +62,6 @@ Model Accuracy = 0.925427358175101
 
 ## Summary and Recommendations
 
-With a 0.925 accuracy and a 0.91 recall score, the Easy Ensemble AdaBoost Classifier produced the best result when predicting high risk credit applications.
+With a 0.925 accuracy and a 0.91 recall score, the **Easy Ensemble AdaBoost Classifier** produced the best result when predicting high risk credit applications.
 
 Given the features used to classify each group of potential loans, the summary dataframes and individual model testing above show that both **Easy Ensemble AdaBoost** and **Random Forest Classifiers** seems to have outperformed the Resampling techniques in accurately predicting high-risk credit card applicants vs. ones with low-risk. However, in the case of screening for high-risk individuals, high sensitivity outweighs the precision performance of the model, meaning: it is better to minimize false negatives and let those few with a high-risk slip through the test, than to upset many more applicants who are at low risk. In the grand scheme of things, it may be better to make a few high-risk loans, than to needlessly annoy many more low-risk applicants to protect the overall reputation of the organization underwriting the loans.

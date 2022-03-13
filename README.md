@@ -2,7 +2,7 @@
 
 ## Overview
 
-Data preparation, statistical reasoning, and machine learning. We apply machine learning to solve a real-world challenge: credit card risk.
+Using data preparation, statistical reasoning, and machine learning we solve a real-world challenge: credit card risk.
 
 Credit risk is an inherently unbalanced classification problem, as good loans easily outnumber risky loans. Therefore, we’ll need to employ different techniques to train and evaluate models with unbalanced classes. We use imbalanced-learn and scikit-learn libraries to build and evaluate models using resampling.
 
